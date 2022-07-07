@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 * **Fetch**
 * **GIT**
 
-## Cтек технологий и инструментов на Beckend
+## Cтек технологий и инструментов на Backend
 
 * **Node.js**
 * **MongoDB**
