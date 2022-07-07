@@ -18,14 +18,19 @@ Here are some ideas to get you started:
 
 ## Cтек технологий и инструментов на Frontend
 
-* **JavaScript** 
+* **JavaScript**
+* **TypeScript**
+* **HTML/CSS**
+* **DOM** 
 * **React**
+* **React-Router-Dom**
 * **Redux**
 * **Redux-toolkit**
-* **Socket.io**
+* **Socket.io-client**
 * **Node.js**
-* **Multer**
 * **Axios**
+* **Fetch**
+* **GIT**
 
 ## Cтек технологий и инструментов на Beckend
 
@@ -36,6 +41,7 @@ Here are some ideas to get you started:
 * **Nodemon**
 * **JWT**
 * **Socket.io**
+* **Multer**
 
 
 
